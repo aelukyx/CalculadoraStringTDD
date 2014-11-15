@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\CalculadoraString\bin\Debug\CalculadoraString.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\CalculadoraString\bin\Debug\CalculadoraString.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\CalculadoraString\obj\Debug\CalculadoraString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrador\Documents\Visual Studio 2012\Projects\CalculadoraString\TestString\bin\Debug\TestString.dll" total="5" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-11-04" time="08:30:02">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="SPXTIC3-PC" user="Administrador" user-domain="SPXTIC3-PC" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\Administrador\Documents\Visual Studio 2012\Projects\CalculadoraString\TestString\bin\Debug\TestString.dll" executed="True" result="Failure" success="False" time="0.031" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestString" executed="True" result="Failure" success="False" time="0.031" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SumaStringTest" executed="True" result="Failure" success="False" time="0.030" asserts="0">
+            <results>
+              <test-case name="TestString.SumaStringTest.TestStringSuma15y15y1000y5y10" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestString.SumaStringTest.TestStringSuma15y15y5000y5y10" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestString.SumaStringTest.TestStringSuma15y15y5y10" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestString.SumaStringTest.TestStringSuma15y15yMenos3y5y10" executed="True" result="Error" success="False" time="0.001" asserts="0">
+                <failure>
+                  <message><![CDATA[System.IO.InvalidDataException : Se encontraron datos no válidos al descodificar.]]></message>
+                  <stack-trace><![CDATA[en CalculadoraString.CalculaSuma.CalculadoraString(String CadenaNumeros) en c:\Users\Administrador\Documents\Visual Studio 2012\Projects\CalculadoraString\CalculadoraString\CalculaSuma.cs:línea 39
+en TestString.SumaStringTest.TestStringSuma15y15yMenos3y5y10() en c:\Users\Administrador\Documents\Visual Studio 2012\Projects\CalculadoraString\TestString\SumaStringTest.cs:línea 59
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TestString.SumaStringTest.TestStringSumaNada" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

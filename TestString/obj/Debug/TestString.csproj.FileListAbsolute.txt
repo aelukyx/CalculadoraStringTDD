@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\TestString.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\TestString.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\CalculadoraString.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\nunit.framework.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\CalculadoraString.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\bin\Debug\nunit.framework.xml
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\obj\Debug\TestString.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CalculadoraString\TestString\obj\Debug\TestString.pdb
